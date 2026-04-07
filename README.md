@@ -1,8 +1,6 @@
-- 👋 Hi, I’m kumar Manas,Doctoral Researcher @FU Berlin and Continental.
-- 👀 I’m interested in Knowledge Representation and Reasoning for autonomous systems.
-- 🌱 Worked earlier with Computer vision, Machine Learning and using power hungry Deep learning on embedded devices.
-- 💞️ My master thesis- CNN based meta learning for noisy image classification and template matching. Worked with Meta learning and single shot learning.
-- 📫 Reach me over - kumarmanas007@yahoo.com
+- 👋 Hi, I’m kumar Manas,Post Doctoral Researcher @Technical University Darmstadt.
+- 👀 Currnetly I’m interested in memory design for VLA and world models for manipulation task.
+- 📫 Reach me over - manasmishra888@gmail.com
 
 <!---
 kumarmanas/kumarmanas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
